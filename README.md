@@ -3,12 +3,18 @@ My group and I worked on this project called E-Voting System. We implemented the
 
 
 Members         
-•Hildah Muchoki 20/00136 
-•Ted Kiiru 20/00195 
-•Brian Gathu 20/00139 
-•Brian Magerer 19/00671 
+•Hildah Muchoki 20/00136
+
+•Ted Kiiru 20/00195
+
+•Brian Gathu 20/00139
+
+•Brian Magerer 19/00671
+
 •Evaline Kashomka 18/06098
+
 •Melvin Omondi 20/00252
+
 •Casey Owillah 19/01380
 
 
