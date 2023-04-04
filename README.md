@@ -7,7 +7,7 @@ Hildah Muchoki 20/00136
 
 Ted Kiiru 20/00195
 
-•Brian Gathu 20/00139
+Brian Gathu 20/00139
 
 Brian Magerer 19/00671
 
