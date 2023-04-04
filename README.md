@@ -11,7 +11,7 @@ Brian Gathu 20/00139
 
 Brian Magerer 19/00671
 
-•Evaline Kashomka 18/06098
+Evaline Kashomka 18/06098
 
 •Melvin Omondi 20/00252
 
