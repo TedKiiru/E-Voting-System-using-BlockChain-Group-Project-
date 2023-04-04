@@ -26,4 +26,8 @@ Once the Voter has logged in to the system using their valid username and passwo
 
 
 
-Since this system maintains the data using blockchain, it is highly dependable and can be easily scanned to check for signs of tampering and malpractice.
+
+
+
+In this system, the admin is the sole authority to manage elections, candidates and voters. Admin can also view the votes. Admin can also check if any vote is tampered, thus checking and verifying the block. Voter can view Elections and cast their vote, also can view the winner but cannot see the winning ratio or votes etc. The system uses Blockchain technology to create a block of every vote thus protecting its identity.
+
