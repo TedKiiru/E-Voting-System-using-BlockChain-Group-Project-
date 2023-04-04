@@ -23,3 +23,7 @@ Voting is a method for a group of individuals to make a collective decision or v
 
 
 Once the Voter has logged in to the system using their valid username and password, they can view the upcoming elections and the candidates contesting the election. Users can also view results once the elections have concluded.
+
+
+
+Since this system maintains the data using blockchain, it is highly dependable and can be easily scanned to check for signs of tampering and malpractice.
