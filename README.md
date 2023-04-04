@@ -3,7 +3,7 @@ My group and I worked on this project called E-Voting System. We implemented the
 
 
 Members         
-•Hildah Muchoki 20/00136
+Hildah Muchoki 20/00136
 
 Ted Kiiru 20/00195
 
