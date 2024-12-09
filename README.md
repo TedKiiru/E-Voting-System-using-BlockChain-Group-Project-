@@ -22,7 +22,7 @@ In this system, the admin is the sole authority to manage elections, candidates 
 
 
 
-Members         
+TEAM PARTICIPANTS          
 Hildah Muchoki 20/00136
 
 Ted Kiiru 20/00195
